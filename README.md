@@ -18,6 +18,11 @@
 ![Static Badge](https://img.shields.io/badge/ubuntu-darkblue?logo=ubuntu&logoColor=white&color=%23E95420)![Static Badge](https://img.shields.io/badge/linuxmint-darkblue?logo=linuxmint&logoColor=white&color=%2386BE43)![Static Badge](https://img.shields.io/badge/debian-darkblue?logo=debian&logoColor=white&color=%23A81D33)![Static Badge](https://img.shields.io/badge/endeavouros-darkblue?logo=endeavouros&logoColor=white&color=%237F7FFF)
 
 
+<h3 align="left">Devices I have expirience with</h3>
+
+![Static Badge](https://img.shields.io/badge/fortinet-darkblue?logo=fortinet&logoColor=white&color=%23EE3124)![Static Badge](https://img.shields.io/badge/ubiquiti-darkblue?logo=ubiquiti&logoColor=white&color=%230559C9)![Static Badge](https://img.shields.io/badge/mikrotik-darkblue?logo=mikrotik&logoColor=white&color=%23293239)![Static Badge](https://img.shields.io/badge/dell-darkblue?logo=dell&logoColor=white&color=%23007DB8)![Static Badge](https://img.shields.io/badge/synology-darkblue?logo=synology&logoColor=white&color=%23B5B5B6)
+
+
 
 
 
